@@ -1,46 +1,43 @@
 📊 CSV Analytics Dashboard (Enterprise BI Tool)
 
-A modern desktop-based Business Intelligence (BI) dashboard built with Python that allows users to load CSV files, explore datasets, apply filters, and visualize data using advanced interactive charts.
-
-This project is designed with a professional UI/UX system inspired by enterprise analytics tools like Power BI and Tableau.
+A modern desktop-based Business Intelligence (BI) application built using Python that enables users to load, explore, filter, and visualize CSV data with an enterprise-level interface inspired by tools like Power BI and Tableau.
 
 🚀 Features
 📂 Data Management
 Load any CSV file instantly
 Automatic column detection
-Supports numeric and categorical data
+Supports both numeric and categorical data
 🎛️ Advanced Filtering System
 Multi-level filtering (4 segment filters)
-Dynamic dropdown updates
-Real-time dataset updates
-Reset filters option
+Dynamic dropdown updates based on data
+Real-time dataset filtering
+One-click reset filters option
 📊 KPI Dashboard
-Total records count
+Total records count display
 Aggregated numeric insights
 Dynamic KPI cards
-Auto-updating metrics
+Auto-updating metrics based on filters
 📈 Advanced Data Visualization
 📊 Modern Bar Charts (Top 15 ranking view)
-📉 Smooth Area Charts
-📌 Lollipop Charts (comparison view)
-🔵 Scatter Trend Analysis
+📉 Smooth Area Charts for trends
+📌 Lollipop Charts for comparisons
+🔵 Scatter Plots for trend analysis
 🧠 Smart Data Processing
 Automatic grouping of categorical fields
 Numeric aggregation (sum-based insights)
-Handles large datasets efficiently
-Top-N filtering for performance
+Optimized handling of large datasets
+Top-N filtering for better performance
 🎨 Professional UI Design
 Enterprise-style dashboard layout
-Clean card-based interface
-Modern color system
-Responsive layout with panes
+Clean card-based UI system
+Modern color scheme and styling
+Responsive pane-based structure
 🛠️ Tech Stack
 Python 🐍
 Tkinter (GUI Framework)
 Pandas (Data Processing)
-Matplotlib (Visualization)
-Tkinter.ttk (Modern Widgets)
-🖥️ Application Type
+Matplotlib (Data Visualization)
+Tkinter.ttk (Modern UI Widgets)
 
 👉 Desktop Application (Offline BI Dashboard)
 
