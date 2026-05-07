@@ -225,6 +225,9 @@ class EnterpriseBI:
         plt.tight_layout()
         canvas = FigureCanvasTkAgg(fig, self.chart_pane)
         canvas.get_tk_widget().pack(fill="both", expand=True, padx=10, pady=10)
+        print("All Process is completed")
+
+
 
 if __name__ == "__main__":
     root = tk.Tk()
