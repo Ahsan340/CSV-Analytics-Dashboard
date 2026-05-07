@@ -43,3 +43,6 @@ Tkinter.ttk (Modern Widgets)
 🖥️ Application Type
 
 👉 Desktop Application (Offline BI Dashboard)
+
+
+![alt text](image.png)
